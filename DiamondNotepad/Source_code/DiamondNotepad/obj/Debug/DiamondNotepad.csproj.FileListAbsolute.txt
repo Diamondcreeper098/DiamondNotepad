@@ -1,0 +1,8 @@
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\DiamondNotepad\bin\Debug\DiamondNotepad.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\DiamondNotepad\bin\Debug\DiamondNotepad.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\DiamondNotepad\obj\Debug\DiamondNotepad.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\DiamondNotepad\obj\Debug\DiamondNotepad.Properties.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\DiamondNotepad\obj\Debug\DiamondNotepad.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\DiamondNotepad\obj\Debug\DiamondNotepad.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\DiamondNotepad\obj\Debug\DiamondNotepad.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\DiamondNotepad\obj\Debug\DiamondNotepad.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\DiamondNotepad\bin\Release\DiamondNotepad.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\DiamondNotepad\bin\Release\DiamondNotepad.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\DiamondNotepad\obj\Release\DiamondNotepad.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\DiamondNotepad\obj\Release\DiamondNotepad.Properties.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\DiamondNotepad\obj\Release\DiamondNotepad.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\DiamondNotepad\obj\Release\DiamondNotepad.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\DiamondNotepad\obj\Release\DiamondNotepad.pdb
